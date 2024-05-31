@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bar_chart_bar_width">50dp</dimen>
+    <dimen name="bar_chart_bar_height_multiplier">10dp</dimen>
+    <dimen name="bar_chart_bar_margin_bottom">8dp</dimen>
+    <dimen name="bar_chart_bar_spacing">8dp</dimen>
+</resources>
